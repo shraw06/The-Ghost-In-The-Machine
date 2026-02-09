@@ -7,6 +7,7 @@ https://nlp.stanford.edu/projects/glove/
 
 Place `glove.6B.300d.txt` in the project root.
 
-If the notebook is going to be rerun from colab, then add the files and folders to the project root exactly as listed in this github repository.
+If the notebook is going to be rerun from colab, then add the files and folders to the project root exactly as listed in this github repository along with the Glove embeddings.
+Some cells in the notebook are commented out, as they were used either for dataset generation or debugging purposes. Please review the code before uncommenting and running these cells, as they may consume significant processing resources.
 Note that the colab notebook was made when it was connected to local runtime, hence the code could differ for different systems.
  
